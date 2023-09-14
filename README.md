@@ -1,2 +1,2 @@
 # UML_Practice
-JAVA scripts
+JAVA scripts in my college.
